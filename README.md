@@ -41,18 +41,26 @@ Vectorization is important because we convert text data into numerical format to
 
 The next step is standardization which is important in order to ensure that all our features have the same scale. Features on the same scale allow for a more consistent interpretation of feature importance or coefficients in certain models.
 
-Accuracy scores for each models are as follows:
-CountVectorizer
-LinearSVC: 94%
-RandomForest Classifier: 98%
+**Accuracy** scores for each models are as follows:
 
-Word2Vec
-LinearSVC: 9%
-RandomForest Classifier: 64%
+**CountVectorizer**
 
-TF-IDF
-LinearSVC: 93%
-RandomForest Classifier: 96%
+1. LinearSVC: 94%
+
+2. RandomForest Classifier: 98%
+
+**Word2Vec**
+
+1. LinearSVC: 9%
+
+2. RandomForest Classifier: 64%
+
+
+**TF-IDF**
+
+1. LinearSVC: 93%
+
+2. RandomForest Classifier: 96%
 
 **Hyperparameter Tuning**
 
