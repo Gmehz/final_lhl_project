@@ -25,7 +25,9 @@ This project is focused on predicting diseases from symptoms using unsupervised 
 I approach this problem by using two machine learning models, Linear Support Vector Classifier (LinearSVC) and Random Forest Classifier, and three different vectorization techniques, namely Count Vectorizer, Word2Vec, and TF-IDF (Term Frequency-Inverse Document Frequency).
 
 ## Project Structure
-![process Image](process.jpg)
+
+![Process image, for accessibility](./images/process.jpg)
+
 
 ## Methodology
 
@@ -85,7 +87,8 @@ From the individual CV scores, I can observe that the accuracy for LinearSVC var
 
 This is my Disease Predictor app
 
-![Alt disease predictor app image](disease_predict_app.png)
+![App image, for accessibility](./images/disease_predict_app.png)
+
 
 
 **Challenges & Learnings**: Dealing with text data was a novel challenge, particularly discerning the significance of shared terms across various diseases. Determining the relevance of words and deciding on their retention or removal was a nuanced task, and establishing a strategy for effective textual exploration proved to be a learning curve.. Hyperparameter tuning was time-intensive, taking six hours per run, limiting iterations with further preprocessing or model exploration. Diverse model testing deepened my understanding of their intricacies and performance determinants.
