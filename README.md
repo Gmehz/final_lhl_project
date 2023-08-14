@@ -25,7 +25,7 @@ This project is focused on predicting diseases from symptoms using unsupervised 
 I approach this problem by using two machine learning models, Linear Support Vector Classifier (LinearSVC) and Random Forest Classifier, and three different vectorization techniques, namely Count Vectorizer, Word2Vec, and TF-IDF (Term Frequency-Inverse Document Frequency).
 
 ## Project Structure
-![Slide1 Image](slide1.jpg)
+![process Image](process.jpg)
 
 ## Methodology
 
