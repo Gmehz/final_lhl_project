@@ -87,7 +87,7 @@ From the individual CV scores, I can observe that the accuracy for LinearSVC var
 
 This is my Disease Predictor app
 
-![App image, for accessibility](./images/disease_predict_app.png)
+![App image, for accessibility](./images/disease_predict_app.jpg)
 
 
 
